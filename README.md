@@ -6,7 +6,9 @@
 
 ###
 
-<h2 align="left">My Competitive Programming Profiles</h2>
+<h2 align="left">
+  <img src="https://cdn-icons-gif.flaticon.com/15712/15712984.gif" width="52" height="40"/>
+  My Competitive Programming Profiles</h2>
 
 ###
 
