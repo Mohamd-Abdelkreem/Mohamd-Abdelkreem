@@ -127,6 +127,11 @@
   <a href="mailto:mohamedabdelkreem770@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+
+<a href="mailto:mohamedabdelkreem770@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail logo" width="52" height="40">
+</a>
+  
   <a href="https://www.facebook.com/mohamed.abdelkreem.315986/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
