@@ -2,6 +2,10 @@
   <img src="https://cdn-icons-png.flaticon.com/128/17895/17895310.png"  width="40" height="40"/>
 </h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="hello waving gif"/>
+</p>
+
 ###
 
 <h2 align="left">About me 🧑‍💻✨</h2>
@@ -9,6 +13,10 @@
 ###
 
 <p align="left">👨‍💻 I'm a Computer Science  Student <br>🏆 ECPC Finalist.<br>💻 I am a competitive programmer at Codeforces, Atcoder, Leetcode.<br>✍🏻 I love using Software as a solution for every Problem<br>🤓 Always learning new things 🚀</p>
+
+<p>
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200" alt="programming gif"/>
+</p>
 
 ###
 
@@ -45,6 +53,9 @@
   
 </div>
 
+<p>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" alt="code battle gif"/>
+</p>
 
 ###
 
@@ -66,6 +77,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <span>🦾</span>
 </div>
+
+<p>
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200" alt="code typing gif"/>
+</p>
 
 ###
 
@@ -92,6 +107,10 @@
   <span>🛠️</span>
 </div>
 
+<p>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="web dev gif"/>
+</p>
+
 ###
 
 <h2 align="left">Software & Tools 🧰</h2>
@@ -115,6 +134,10 @@
   <span>🧑‍🔧</span>
 </div>
 
+<p>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" alt="tools gif"/>
+</p>
+
 ###
 
 <h2 align="left">IDEs 🖊️</h2>
@@ -130,6 +153,10 @@
   <span>📝</span>
 </div>
 
+<p>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="200" alt="ide gif"/>
+</p>
+
 ###
 
 <h2 align="left">Operating Systems 🖥️</h2>
@@ -144,6 +171,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <span>🖱️</span>
 </div>
+
+<p>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="200" alt="os gif"/>
+</p>
 
 ###
 
@@ -165,5 +196,9 @@
   </a>
   <span>🌟</span>
 </div>
+
+<p>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" alt="contact gif"/>
+</p>
 
 ###
