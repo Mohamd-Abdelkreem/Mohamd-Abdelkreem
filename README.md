@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Mohamed
+<h1 align="left" display="inline-block">Hi there, I'm Mohamed
 <img src="https://cdn-icons-png.flaticon.com/128/17895/17895310.png" width="40" height="40">
 </h1>
 
