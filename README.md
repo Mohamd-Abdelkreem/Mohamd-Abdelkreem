@@ -19,11 +19,10 @@
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-</div>
 
-<div align="left">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3629285-3031869.png?f=webp&w=256
-" width="52" height="40" alt="codeforces logo"  />
+
+
+  <img src="https://camo.githubusercontent.com/8878c729d7a8b56161565ce36ab34f120652ee3fb8ea78671d52c80a4ce0ffec/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d74616c2d72657669766f2d736861646f772d74616c2d72657669766f2f35302f3030303030302f65787465726e616c2d636f6465666f726365732d70726f6772616d6d696e672d636f6d7065746974696f6e732d616e642d636f6e74657374732d70726f6772616d6d696e672d636f6d6d756e6974792d6c6f676f2d736861646f772d74616c2d72657669766f2e706e67" width="52" height="40" alt="codeforces logo"  />
 </div>
 
 ###
