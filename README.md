@@ -14,6 +14,10 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
 </div>
 
+<div align="left">
+  <img src="https://drive.google.com/file/d/1UbQGj4trSp2J4-xLjdeFRODINDQQLmG5/view?usp=drive_link" width="52" height="40" alt="Codeforces logo"  />
+</div>
+
 ###
 
 <h2 align="left">Programming languages</h2>
@@ -125,9 +129,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Mohamd-Abdelkreem/Mohamd-Abdelkreem/output/snake.svg" alt="Snake animation" />
 
 ###
