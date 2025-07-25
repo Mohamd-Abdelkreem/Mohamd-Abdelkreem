@@ -4,6 +4,7 @@
 
 ###
 
+<img src="https://cdn-icons-gif.flaticon.com/17122/17122565.gif" width="40" height="40">
 <h2 align="left">About me</h2>
 
 ###
