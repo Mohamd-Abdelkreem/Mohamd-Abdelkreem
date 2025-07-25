@@ -7,7 +7,6 @@
 ###
 
 <h2 align="left">
-  <img src="https://cdn-icons-gif.flaticon.com/15712/15712984.gif" width="52" height="40"/>
   My Competitive Programming Profiles</h2>
 
 ###
@@ -16,9 +15,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
 </div>
 
-<div align="left">
-  <img src="https://cdn-icons-png.flaticon.com/128/3573/3573187.png" width="52" height="40" alt="Codeforces logo"  />
-</div>
 
 ###
 
