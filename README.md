@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Mohamed
+<h1 align="center">Hi there, I'm Mohamed
   <img src="https://cdn-icons-png.flaticon.com/128/17895/17895310.png"  width="40" height="40"/>
 </h1>
 
@@ -21,6 +21,10 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
 </div>
 
+<div align="left">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3629285-3031869.png?f=webp&w=256
+" width="52" height="40" alt="codeforces logo"  />
+</div>
 
 ###
 
