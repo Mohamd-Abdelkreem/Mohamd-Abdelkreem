@@ -4,6 +4,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamed-Abdelkareem.Mohamed-Abdelkareem&"  />
+</div>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
