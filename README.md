@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">👨‍💻 I'm a Computer Science  Student <br>🏆 ECPC Finalist.<br>💻 I am a competitive programmer at Codeforces, Atcoder, Leetcode.<br>✍🏻 I love using Software as a solution for every Problem<br>🤓 Always learning new things</p>
+<p align="left">👨‍💻 I'm a Computer Science  Student <br>🏆 2X ECPC Finalist.<br>💻 I am a competitive programmer at Codeforces, Atcoder, Leetcode.<br>✍🏻 I love using Software as a solution for every Problem<br>🤓 Always learning new things</p>
 
 ###
 
