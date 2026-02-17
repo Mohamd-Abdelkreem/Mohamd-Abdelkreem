@@ -1,5 +1,5 @@
 <div align="center" width="100">
-  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="header"/>
+  <img src="images/mario.gif" alt="header"/>
 </div>
 
 <h1 align="center">Hi there, I'm Mohamed
