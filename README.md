@@ -30,26 +30,26 @@
 <div align="left">
 
 <a href="https://codeforces.com/profile/Abd-El-Kareem" target="_blank" >
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" width="40" height="40" alt="codeforces logo"  />
+  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="codeforces logo"  />
 </a>
 
 <img width="12" />
 
 <a href="https://leetcode.com/u/wChYKWj9pF/" target="_blank">    
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width="40" height="40" alt="LeetCode logo"  />
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"  alt="LeetCode logo"  />
 </a>
 
 <img width="12" />
 
   <a href="https://atcoder.jp/users/Abd_ElKareem" target="_blank">    
-  <img src="https://camo.githubusercontent.com/a504c65ebcc3672a06f6daed831bc4dc532a80676f4189f01c179fa99fb59291/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4174436f6465722d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6174636f646572266c6f676f436f6c6f723d7768697465" width="40" height="40" alt="LeetCode logo"  />
+  <img src="https://camo.githubusercontent.com/a504c65ebcc3672a06f6daed831bc4dc532a80676f4189f01c179fa99fb59291/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4174436f6465722d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6174636f646572266c6f676f436f6c6f723d7768697465"  alt="LeetCode logo"  />
 </a>
 
 
 <img width="12" />
 
   <a href="https://icpc.global/ICPCID/EZUVBQCCHN6B" target="_blank">    
-  <img src="https://blog.jetbrains.com/wp-content/uploads/2017/05/icpc_logo.png" width="40" height="40" alt="LeetCode logo"  />
+  <img src="https://blog.jetbrains.com/wp-content/uploads/2017/05/icpc_logo.png"  alt="LeetCode logo"  />
 </a>
   
   
