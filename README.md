@@ -1,3 +1,7 @@
+<div align="center" width="100">
+  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="header"/>
+</div>
+
 <h1 align="center">Hi there, I'm Mohamed
   <img src="https://cdn-icons-png.flaticon.com/128/17895/17895310.png"  width="40" height="40"/>
 </h1>
