@@ -30,26 +30,26 @@
 <div align="left">
 
 <a href="https://codeforces.com/profile/Abd-El-Kareem" target="_blank" >
-  <img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f?h=210" width="40" height="40" alt="codeforces logo"  />
+  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" width="40" height="40" alt="codeforces logo"  />
 </a>
 
 <img width="12" />
 
 <a href="https://leetcode.com/u/wChYKWj9pF/" target="_blank">    
-  <img src="https://camo.githubusercontent.com/6a299305f51d570af7d7fd28e268c6ea58a913ec1ac38058c5dd1d72b18810ff/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d74616c2d72657669766f2d736861646f772d74616c2d72657669766f2f35302f3030303030302f65787465726e616c2d6c6576656c2d75702d796f75722d636f64696e672d736b696c6c732d616e642d717569636b6c792d6c616e642d612d6a6f622d6c6f676f2d736861646f772d74616c2d72657669766f2e706e67" width="40" height="40" alt="LeetCode logo"  />
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width="40" height="40" alt="LeetCode logo"  />
 </a>
 
 <img width="12" />
 
   <a href="https://atcoder.jp/users/Abd_ElKareem" target="_blank">    
-  <img src="https://camo.githubusercontent.com/6730e2486c547ee90e959cbfca1f52492f5e0d3db0403f4a7c36ff5bae92788c/68747470733a2f2f692e6962622e636f2f513957536a44422f6c6f676f2e706e67" width="40" height="40" alt="LeetCode logo"  />
+  <img src="https://camo.githubusercontent.com/a504c65ebcc3672a06f6daed831bc4dc532a80676f4189f01c179fa99fb59291/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4174436f6465722d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6174636f646572266c6f676f436f6c6f723d7768697465" width="40" height="40" alt="LeetCode logo"  />
 </a>
 
 
 <img width="12" />
 
   <a href="https://icpc.global/ICPCID/EZUVBQCCHN6B" target="_blank">    
-  <img src="https://camo.githubusercontent.com/a3b67db887842b07488bb2461f5bb5a0f885f6e15735dfaf19d81d24cf54ee23/68747470733a2f2f692e6962622e636f2f364a30723772572f4461636f2d353631303838302e706e67" width="40" height="40" alt="LeetCode logo"  />
+  <img src="https://blog.jetbrains.com/wp-content/uploads/2017/05/icpc_logo.png" width="40" height="40" alt="LeetCode logo"  />
 </a>
   
   
