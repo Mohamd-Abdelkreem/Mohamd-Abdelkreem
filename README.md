@@ -49,7 +49,7 @@
 <img width="12" />
 
   <a href="https://icpc.global/ICPCID/EZUVBQCCHN6B" target="_blank">    
-  <img src="https://blog.jetbrains.com/wp-content/uploads/2017/05/icpc_logo.png" width="105px" height="28px"   alt="LeetCode logo"  />
+  <img src="https://blog.jetbrains.com/wp-content/uploads/2017/05/icpc_logo.png" width="100px" height="35px"   alt="LeetCode logo"  />
 </a>
   
   
