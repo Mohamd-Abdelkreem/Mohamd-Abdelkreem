@@ -33,7 +33,7 @@ I'm a Computer Science graduate and freelance software engineer based in Egypt. 
 
 ## Competitive programming
 
-**2x ACPC Finals**
+**2x ECPC Finals**
 
 <p>
   <a href="https://codeforces.com/profile/Abd-El-Kareem"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces" /></a>
