@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="300" viewBox="0 0 900 300">
+  <title>Pixel-art developer typing at a laptop</title>
+  <desc>The hands tap the keyboard while the laptop writes new lines of code.</desc>
+  <style>
+    .near-hand { animation: near-hand 1.15s step-end infinite; }
+    .far-hand { animation: far-hand 1.15s step-end infinite; }
+    .near-key { animation: near-key 1.15s step-end infinite; }
+    .far-key { animation: far-key 1.15s step-end infinite; }
+    .code-line {
+      transform-box: fill-box;
+      transform-origin: left center;
+      animation: write-code 3.8s steps(4, end) infinite;
+    }
+    .cursor { animation: blink 0.9s step-end infinite; }
+
+    @keyframes near-hand {
+      0%, 28%, 62%, 100% { transform: translateY(0); }
+      12%, 46% { transform: translateY(5px); }
+    }
+    @keyframes far-hand {
+      0%, 45%, 88%, 100% { transform: translateY(0); }
+      30%, 72% { transform: translateY(4px); }
+    }
+    @keyframes near-key {
+      0%, 28%, 62%, 100% { opacity: 0; }
+      12%, 46% { opacity: 0.75; }
+    }
+    @keyframes far-key {
+      0%, 45%, 88%, 100% { opacity: 0; }
+      30%, 72% { opacity: 0.75; }
+    }
+    @keyframes write-code {
+      0%, 10% { transform: scaleX(0); opacity: 1; }
+      58%, 90% { transform: scaleX(1); opacity: 1; }
+      100% { transform: scaleX(1); opacity: 0; }
+    }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .near-hand, .far-hand, .near-key, .far-key, .code-line, .cursor { animation: none; }
+    }
+  </style>
+  <defs>
+    <image id="scene" width="900" height="300" xlink:href="data:image/webp;base64,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" />
+    <clipPath id="near-hand-area"><rect x="464" y="212" width="32" height="39" /></clipPath>
+    <clipPath id="far-hand-area"><rect x="496" y="212" width="34" height="39" /></clipPath>
+  </defs>
+  <rect width="900" height="300" fill="#0a132d" />
+  <use xlink:href="#scene" />
+  <g clip-path="url(#near-hand-area)"><use class="near-hand" xlink:href="#scene" /></g>
+  <g clip-path="url(#far-hand-area)"><use class="far-hand" xlink:href="#scene" /></g>
+  <rect class="near-key" x="483" y="249" width="8" height="2" fill="#86efac" opacity="0" />
+  <rect class="far-key" x="513" y="249" width="8" height="2" fill="#86efac" opacity="0" />
+  <g class="code-line" opacity="0.75">
+    <rect x="566" y="212" width="17" height="4" fill="#7dd3fc" />
+    <rect x="588" y="212" width="24" height="4" fill="#86efac" />
+  </g>
+  <rect class="cursor" x="561" y="225" width="5" height="6" fill="#86efac" />
+</svg>
