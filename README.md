@@ -13,15 +13,27 @@ I'm a Computer Science graduate and freelance software engineer based in Egypt. 
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&amp;theme=dark" width="204" alt="TypeScript, React, Next.js, and Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&amp;theme=dark" width="362" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, and Tailwind CSS" />
 
-**Backend & database**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma&amp;theme=dark" width="204" alt="Node.js, Express, PostgreSQL, and Prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&amp;theme=dark" width="151" alt="Node.js, Express, and NestJS" />
+
+**Databases & ORM**
+
+<img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,mysql&amp;theme=dark" width="204" alt="PostgreSQL, Prisma, MongoDB, and MySQL" />
+
+**Developer tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,bash&amp;theme=dark" width="204" alt="Git, GitHub, Docker, and Bash" />
+
+**Operating systems**
+
+<img src="https://skillicons.dev/icons?i=apple,linux,ubuntu,windows&amp;theme=dark" width="204" alt="macOS, Linux, Ubuntu, and Windows" />
 
 ## Competitive programming
 
-Two-time ECPC finalist.
+**2x ACPC Finals**
 
 <p>
   <a href="https://codeforces.com/profile/Abd-El-Kareem"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces" /></a>
